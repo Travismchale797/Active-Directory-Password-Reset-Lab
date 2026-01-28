@@ -7,7 +7,7 @@ This lab demonstrates how to implement delegated access in Active Directory, all
 - Deploy an Active Directory domain environment
 - Create a Helpdesk user account
 - Delegate password reset and account unlock permissions
-- Verify least privilege by blocking unauthorized admin actions
+- Verify least privilege by blocking unauthorized admin actions testing 
 
 ## Skills Demonstrated
 - Active Directory administration
