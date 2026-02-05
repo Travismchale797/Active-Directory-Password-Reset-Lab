@@ -1,7 +1,7 @@
 # Active Directory Helpdesk Password Reset Lab
 
 ## Overview
-This lab demonstrates how to implement delegated access in Active Directory, allowing a helpdesk user to reset passwords and unlock accounts while enforcing least-privilege access control. Testign Testing 
+This lab demonstrates how to implement delegated access in Active Directory, allowing a helpdesk user to reset passwords and unlock accounts while enforcing least-privilege access control. Tes
 
 ## Objectives
 - Deploy an Active Directory domain environment
