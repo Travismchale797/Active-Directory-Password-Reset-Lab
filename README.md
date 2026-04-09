@@ -39,13 +39,13 @@ This lab demonstrates how to implement delegated access in Active Directory, all
 ## Project Demonstration
 
 1. Account Permissions Configuration  
-![Account Permissions](images/account-permissions.png)  
+![Account Permissions](images/Account-Permissions.png)  
 Configured user account settings within Active Directory, including password policies and account options such as forced password reset at next logon and account unlock functionality.
 
 2. Least Privilege Enforcement (Access Denied)  
-![Least Privilege Proof](images/least-privilege-proof.png)  
+![Least Privilege Proof](images/Least-Privilege-Proof.png)  
 Demonstrates enforcement of least privilege by attempting to run Active Directory tools as a standard user account. The logon failure confirms the user does not have elevated administrative permissions.
 
 3. Password Reset and Account Recovery  
-![Password Reset](images/password-reset.png)  
+![Password Reset](images/Password-Reset.png)  
 Performed a successful password reset for a domain user account, validating helpdesk-level permissions for account management tasks.
